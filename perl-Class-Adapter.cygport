@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Class-Adapter"
 VERSION=1.08
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl Adapter base class module"
 DESCRIPTION="The Class::Adapter class is intended as an abstract base class for
@@ -11,3 +11,5 @@ creating any sort of class or object that follows the Adapter pattern.  An
 Adapter in this Perl sense of the term is when a class is created to achieve by
 composition (objects containing other object) something that can't be achieved
 by inheritance (sub-classing)."
+
+ARCH=noarch
